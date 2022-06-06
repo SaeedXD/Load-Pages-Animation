@@ -1,5 +1,5 @@
 # Load-Pages-Animation
-💡Navigate the pages of your site with Blur animation
+💡Navigate the pages of your site with Blur animation.
 
 ## How to do ?
 📌Add these codes to all pages of your website.
